@@ -26,3 +26,13 @@
     width: 300px;
     text-align: center;
 }
+
+.post {
+    padding: 20px;
+    border: 5px solid lightseagreen;
+    margin: 20px;
+    background-color: lightpink;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}
